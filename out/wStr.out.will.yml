@@ -1458,6 +1458,4 @@ module:
       ../.im.will.yml:
         hash: 4bd2ad8e081461ac0a9600e6aa2abea9
         size: 4662
-      wStr.out.will.yml:
-        hash: 95fb6d8e27ca61aad20ca1b51eff456b
-        size: 36835
+      wStr.out.will.yml: *ref_0
