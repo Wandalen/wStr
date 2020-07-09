@@ -1,5 +1,5 @@
 
-# module::Str  [![Status](https://github.com/Wandalen/wStr/workflows/Test/badge.svg)](https://github.com/Wandalen/wStr/actions?query=workflow%3ATest) [![experimental](https://img.shields.io/badge/stability-experimental-orange.svg)](https://github.com/emersion/stability-badges#experimental)
+# module::Str  [![Status](https://github.com/Wandalen/wStr/workflows/Publish/badge.svg)](https://github.com/Wandalen/wStr/actions?query=workflow%3APublish) [![experimental](https://img.shields.io/badge/stability-experimental-orange.svg)](https://github.com/emersion/stability-badges#experimental)
 
 ___
 
